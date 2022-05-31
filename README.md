@@ -7,3 +7,6 @@ In this project, I try to prove that CLT works
 2. Generate 10000 random samples, and calculate the average of each sample
 3. Plot the averages, and make sure they fit the normal distribution
 
+## Euler's number
+
+I also tried to estimate the value of euler's number (e) using CLT
